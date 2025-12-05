@@ -7,7 +7,7 @@
 Once the project is published to GitHub:
 
 ```bash
-go install github.com/yogabagas/go-projo@latest
+go install github.com/yogabagas/gen-projo@latest
 ```
 
 Then you can use it anywhere:
