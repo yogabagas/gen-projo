@@ -6,7 +6,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/yourusername/go-projo/generator"
+	"github.com/yogabagas/go-projo/generator"
 )
 
 func executeGenerate() error {
