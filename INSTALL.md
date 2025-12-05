@@ -7,7 +7,7 @@
 Once the project is published to GitHub:
 
 ```bash
-go install github.com/yourusername/go-projo@latest
+go install github.com/yogabagas/go-projo@latest
 ```
 
 Then you can use it anywhere:
@@ -75,7 +75,7 @@ go-projo version 1.0.0
 
 ### If installed via `go install`:
 ```bash
-go install github.com/yourusername/go-projo@latest
+go install github.com/yogabagas/go-projo@latest
 ```
 
 ### If installed locally:
@@ -229,7 +229,7 @@ If you want to contribute or modify go-projo:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/go-projo.git
+git clone https://github.com/yogabags/go-projo.git
 cd go-projo
 
 # Build
